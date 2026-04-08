@@ -1,18 +1,20 @@
-# 💬 Chat Application (Real-Time)
+## 🔗 Live Demo
+Frontend: https://chat-app1-mgpfgd3qx-madhumithaprakash23-3241s-projects.vercel.app  
+Backend: [https://your-render-link](https://chat-app-et4m.onrender.com)  
 
-## 🚀 Features
-- Real-time messaging using Socket.io
-- Multiple users chat simultaneously
-- Instant message broadcast
-- Simple UI with React
+## ⚙️ Tech Stack
+- React.js
+- Node.js
+- Express.js
+- Socket.io
+- MongoDB (if added later)
 
-## 🛠 Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express
-- Real-time: Socket.io
+## ✨ Features
+- Real-time messaging
+- Multiple users
+- Room-based chat
+- Timestamp messages
 
-## 🌐 Live Backend
-https://chat-app-et4m.onrender.com
-
-## 📸 Demo
-(Add screenshot here)
+## 🚀 Deployment
+- Frontend: Vercel
+- Backend: Render
