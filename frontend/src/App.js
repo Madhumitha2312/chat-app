@@ -4,6 +4,7 @@ import { io } from "socket.io-client";
 // 🔥 YOUR BACKEND URL
 const socket = io("https://chat-app-et4m.onrender.com", {
   transports: ["polling"],
+  withCredentials: true,
 });
 
 function App() {
